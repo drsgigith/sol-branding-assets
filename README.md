@@ -1,19 +1,16 @@
 # sol-researchlab-assets
 
-Brand logo assets for Sol Research Lab (Sol Eclipse). All artwork on transparent background.
+Brand logo assets for Sol Research Lab. One folder per product.
 
-## White variants (for dark backgrounds)
-| File | Size |
-|---|---|
-| sol-eclipse-horizontal-white.png | 1272x320 |
-| sol-eclipse-horizontal-white.svg | vector |
-| sol-eclipse-icon-white.png | 512x512 |
-| sol-eclipse-icon-white.svg | vector |
+## Sol EduLab
 
-## Standard variants (for light backgrounds)
-| File | Size |
-|---|---|
-| sol-eclipse-horizontal.png | 1272x320 |
-| sol-eclipse-horizontal.svg | vector |
-| sol-eclipse-icon.png | 512x512 |
-| sol-eclipse-icon.svg | vector |
+| File | Size | Variant |
+|---|---|---|
+| Sol EduLab/sol-eclipse-horizontal-white-2.png | 1272x320 | white, dark backgrounds |
+| Sol EduLab/sol-eclipse-horizontal-white-2.svg | vector | white, dark backgrounds |
+| Sol EduLab/sol-eclipse-icon-white-2.png | 512x512 | white, dark backgrounds |
+| Sol EduLab/sol-eclipse-icon-white-2.svg | vector | white, dark backgrounds |
+| Sol EduLab/sol-eclipse-horizontal-2.png | 1272x320 | standard, light backgrounds |
+| Sol EduLab/sol-eclipse-horizontal-2.svg | vector | standard, light backgrounds |
+| Sol EduLab/sol-eclipse-icon-2.png | 512x512 | standard, light backgrounds |
+| Sol EduLab/sol-eclipse-icon-2.svg | vector | standard, light backgrounds |
